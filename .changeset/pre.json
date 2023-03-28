@@ -6,6 +6,10 @@
     "cplayground-b": "1.2.1"
   },
   "changesets": [
+<<<<<<< HEAD
     "strange-lamps-occur"
+=======
+    "pretty-cheetahs-hope"
+>>>>>>> prelease
   ]
 }

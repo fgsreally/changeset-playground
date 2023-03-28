@@ -1,6 +1,10 @@
 {
   "name": "cplayground-b",
+<<<<<<< HEAD
   "version": "1.3.0-rc.0",
+=======
+  "version": "1.0.1-rc.0",
+>>>>>>> prelease
   "description": "",
   "main": "index.js",
   "module": "index.js",

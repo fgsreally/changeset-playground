@@ -2,8 +2,10 @@
   "mode": "pre",
   "tag": "rc",
   "initialVersions": {
-    "pkg-a": "1.0.0",
-    "cplayground-b": "1.0.0"
+    "pkg-a": "1.2.1",
+    "cplayground-b": "1.2.1"
   },
-  "changesets": []
+  "changesets": [
+    "strange-lamps-occur"
+  ]
 }

@@ -1,0 +1,9 @@
+{
+  "mode": "pre",
+  "tag": "rc",
+  "initialVersions": {
+    "pkg-a": "1.0.0",
+    "cplayground-b": "1.0.0"
+  },
+  "changesets": []
+}

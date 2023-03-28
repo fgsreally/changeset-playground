@@ -5,5 +5,7 @@
     "pkg-a": "1.0.0",
     "cplayground-b": "1.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "pretty-cheetahs-hope"
+  ]
 }
